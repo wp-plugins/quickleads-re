@@ -73,7 +73,14 @@ function twitter_leads_settings_page() {
   </form>
   <br/>
   <h3>Video Instructions</h3>
-  <iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/h_ELexLKEh4" frameborder="0" allowfullscreen></iframe>
+  <h4>Part 1</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/IhDj2qzz7ac" frameborder="0" allowfullscreen></iframe>
+  
+  <h4>Part 2</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/h_ELexLKEh4" frameborder="0" allowfullscreen></iframe>
+  
+  <h4>Part 3</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/GHQxNd5cAGU" frameborder="0" allowfullscreen></iframe>
   
   <h3>Written Instructions</h3>
   <ol>

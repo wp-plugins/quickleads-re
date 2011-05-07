@@ -4,7 +4,7 @@ Donate link: http://weknowurban.com/
 Tags: real estate, twitter
 Requires at least: 3.1
 Tested up to: 3.1
-Stable tag: 1.1
+Stable tag: 1.2
 
 QuickLeads RE let's you quickly get leads from your website.
 
@@ -14,7 +14,7 @@ People shopping for real estate on the web often email or call multiple agents u
 
 == Installation ==
 
-Just install the plugin
+Just install the plugin and watch the tutorial videos.
 
 == Frequently Asked Questions ==
 
@@ -22,16 +22,14 @@ Just install the plugin
 
 Yes.
 
-== Screenshots ==
+== Video Tutorials ==
 
-None
+<iframe width="425" height="349" src="http://www.youtube.com/embed/IhDj2qzz7ac" frameborder="0" allowfullscreen></iframe>
 
 == Changelog ==
 
+= 1.2 =
+* Added documentation
+
 = 1.0 =
 * First version
-
-== Upgrade Notice ==
-
-= 1.0 =
-Nothing new
