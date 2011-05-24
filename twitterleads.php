@@ -114,7 +114,7 @@ class Twitter_Leads_Widget extends WP_Widget {
           <div style="text-align:center; color: #000;"><em>Message successfully sent</em></div>
         <?php } ?>
         <form method="post" action="<?= TWITTER_LEADS_PATH ?>twitter-leads-post.php" id="twitter_leads_form" name="twitter_leads_form">
-          <p style="font-weight:bold; margin-bottom: 5px; color: #000">Message:</p>
+          <p style="font-weight:bold; margin-bottom: 5px; color: #000">Reach me NOW!</p>
           <textarea style="width: 95%; height: 100px; margin-bottom: 15px;" name="twitter_leads_message" id="twitter_leads_message" ></textarea>
           <p style="font-weight:bold; margin-bottom: 5px; color: #000">Email:</p>
           <input type="text" style="width: 95%; margin-bottom: 10px" name="twitter_leads_email" id="twitter_leads_email" />
