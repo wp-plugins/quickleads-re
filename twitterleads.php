@@ -73,7 +73,14 @@ function twitter_leads_settings_page() {
   </form>
   <br/>
   <h3>Video Instructions</h3>
-  <iframe title="YouTube video player" width="560" height="349" src="http://www.youtube.com/embed/h_ELexLKEh4" frameborder="0" allowfullscreen></iframe>
+  <h4>Part 1</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/IhDj2qzz7ac" frameborder="0" allowfullscreen></iframe>
+  
+  <h4>Part 2</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/h_ELexLKEh4" frameborder="0" allowfullscreen></iframe>
+  
+  <h4>Part 3</h4>
+  <iframe width="560" height="349" src="http://www.youtube.com/embed/GHQxNd5cAGU" frameborder="0" allowfullscreen></iframe>
   
   <h3>Written Instructions</h3>
   <ol>
@@ -107,7 +114,7 @@ class Twitter_Leads_Widget extends WP_Widget {
           <div style="text-align:center; color: #000;"><em>Message successfully sent</em></div>
         <?php } ?>
         <form method="post" action="<?= TWITTER_LEADS_PATH ?>twitter-leads-post.php" id="twitter_leads_form" name="twitter_leads_form">
-          <p style="font-weight:bold; margin-bottom: 5px; color: #000">Message:</p>
+          <p style="font-weight:bold; margin-bottom: 5px; color: #000">Reach me NOW!</p>
           <textarea style="width: 95%; height: 100px; margin-bottom: 15px;" name="twitter_leads_message" id="twitter_leads_message" ></textarea>
           <p style="font-weight:bold; margin-bottom: 5px; color: #000">Email:</p>
           <input type="text" style="width: 95%; margin-bottom: 10px" name="twitter_leads_email" id="twitter_leads_email" />
